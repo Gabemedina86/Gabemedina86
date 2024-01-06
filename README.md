@@ -37,18 +37,16 @@ Welcome to my GitHub page! I'm an emerging tech enthusiast with a passion for da
 <p>🍌 Don't forget your potassium! 🍌</p>
 
 <!-- Gif -->
-<img align="right" src="https://media1.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
+<img align="left" src="https://media1.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
 <!-- Facts Section -->
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>:monocle_face: A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1HUPN0rsSMaByJgz9UDHqBAqpTe7QFFd8/view?usp=sharing">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>:teacher: All of my projects are available on <a href="https://github.com/Gabemedina86">Github</a>.</li>
+<li>:game_die: I'm a big fan of TTRPGs, like Dungeons and Dragons, for example!
+<li>:football: I also love watching football! Fins up!:dolphin:
+<li>:cook: I've been cooking for as long as I can remember and love trying new recipes!
+<li>:1st_place_medal: If you need a partner for Trivia Night, I'm your guy!
 </ul>
 
 <!-- Tools -->
@@ -67,7 +65,6 @@ Welcome to my GitHub page! I'm an emerging tech enthusiast with a passion for da
 </p>
 
 <!-- Stat tracker -->
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-
+[![Gabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabemedina86)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Hits -->
-<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGabemedina86%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
